@@ -5,6 +5,8 @@
 <p>Este projeto foi desenvolvido utilizando as tecnologias REACT, Tailwind, e Framer Motion. Nele, abordamos a integração de bibliotecas como React Icons e Mouse Follower para proporcionar uma animação agradável e envolvente ao cursor. Usamos o hook `useState` do REACT para gerenciamento de estados, como a mudança do background da aplicação, e aplicamos propriedades dinâmicas para tornar a aplicação mais interativa e organizada. Com o Framer Motion, implementamos animações complexas utilizando variáveis definidas dentro da própria aplicação. No Tailwind, aplicamos conceitos cruciais de responsividade, como o uso de `grid-template-columns` e `position: absolute` para controlar a posição dos elementos e garantir que as animações ocorressem conforme o esperado. Este projeto foi fundamental para consolidar meus conhecimentos em desenvolvimento front-end e práticas modernas de design.</p>
 
 
+
+
 ![alt text](image.png)
 
 
